@@ -1,0 +1,9 @@
+*.bin
+*.elf
+*.hex
+*.log
+*.scr
+*.swp
+*.d
+*.o
+generated.*.ld
